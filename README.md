@@ -9,9 +9,6 @@
 </p>
 </div>
 
-> 💡 Nail JavaScript interviews with questions and solutions from ex-interviewers! [Try GreatFrontEnd →](https://www.greatfrontend.com/questions/js?utm_source=github&utm_medium=referral&utm_campaign=sudheerj-js&gnrs=sudheerj) 💡
-
----
 
 <div>
 <p align="center">
